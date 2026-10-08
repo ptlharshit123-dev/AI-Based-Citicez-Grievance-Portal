@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Citizen Grievance Classification System",
+  "description": "An AI-powered public grievance management platform that classifies, routes, prioritizes, and resolves civic issues using Gemini and population density metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
